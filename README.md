@@ -1,5 +1,5 @@
 # Rule-engine
-## Author : Jayaprakash V
+## Requirements: python should be installed
 ##[Note :  I have tried the basic functionality of the requirements ]
 
 Name json stream as raw_data.json as a input file
