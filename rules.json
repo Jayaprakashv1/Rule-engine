@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ATL1",
+    "condition": "gt",
+	"type": "Integer",
+    "value": "234.98"
+  },
+  {
+    "name": "ATL2",
+    "condition": "nq",
+	"type": "String",
+    "value": "HIGH"
+  },
+  {
+    "name": "ATL3",
+    "condition": "gt",
+	"type": "Datetime",
+    "value": "future"
+  }
+]
